@@ -1,1 +1,33 @@
+window {
+    margin: 5px;
+    border: 2px solid #FEA36A;
+    font-family: JetBrainsMono Nerd Font;
+    font-size: 15;
+}
 
+#input {
+margin: 10px;
+border: 2px solid #FEA36A;
+background-color: transparent;
+opacity:0.5;
+}
+
+#inner-box {
+margin: 10px;
+background-color: #292929;
+}
+
+#outer-box {
+margin: 5px;
+background-color: #292929;
+}
+
+#scroll {
+margin: 5px;
+background: transparent;
+}
+
+#text {
+margin: 5px;
+color: #FFFFFF;
+}
